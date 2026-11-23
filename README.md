@@ -59,3 +59,5 @@ python .claude/skills/map-documentary-shorts/scripts/render_map.py .claude/skill
 ```
 
 การตรวจ libraqm ควรแสดง `True` เมื่อใช้เสียงพากย์รวมให้เติม `--audio narration.wav` หรือใช้ `--cue-audio narration-cues/` สำหรับเสียง WAV รายวลี ดูวิธีตั้งไทม์ไลน์และรักษาเครดิตภาพที่ `references/google-earth.md` และ `references/production.md` ภายในโฟลเดอร์ Skill
+
+ภาพตัวอย่าง และ คลิป https://youtube.com/shorts/SCQBjC5TQms?feature=share 
