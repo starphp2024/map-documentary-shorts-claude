@@ -2,7 +2,7 @@
 
 Skill เวอร์ชัน **1.3.0** สำหรับเขียนบทพากย์ไทย วางช็อต และทำสารคดีแผนที่แนวตั้ง **1080×1920** ด้วย Python และ FFmpeg ส่งออก MP4 พร้อมซับ Kanit ฝังในภาพและไฟล์ SRT แยก รองรับแผนที่จาก Google Earth Studio หรือ Google Earth Pro สีแบ่งพื้นที่ ลูกศรเคลื่อนไหว และป้ายชื่อที่อยู่กับตำแหน่งบนแผนที่ Google Flow ใช้ได้เมื่อเลือก
 
-[ดาวน์โหลด map-documentary-shorts-claude.zip](./map-documentary-shorts-claude.zip?raw=true)
+[เปิด GitHub Release v1.3.0](https://github.com/starphp2024/map-documentary-shorts-claude/releases/tag/v1.3.0) แล้วเลือกไฟล์ `map-documentary-shorts-claude.zip` ใน **Assets** เมื่อไฟล์พร้อมดาวน์โหลด
 
 ## ติดตั้งและเรียกใช้บน Claude
 
